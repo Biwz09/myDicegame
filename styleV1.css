@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1325195247/photo/abstract-curve-and-wave-on-navy-blue-illustration-background.jpg?b=1&s=170667a&w=0&k=20&c=yyyCag_ZhD8wB4Syrddr676JFfRGIzINpDeCpabnVG4=);
+    background-size: cover;
+    margin: 0rem; 
+}
+h1{
+    margin: 5rem;
+    font-size: 4rem;
+    font-family: cursive;
+    font-weight: bold;
+    color:yellow;
+    text-shadow: 3px 0 black;
+}
+.Allplayer{
+    text-align: center;
+    font-size: 2.4rem;
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: rgb(255, 225, 0);
+    text-shadow: 1.8px 0 black;   
+}
+.dice {
+    text-align: center;
+    display: inline-table;
+    margin: 10px;
+}
+
+.refreshButton {
+    padding-top: 50px;
+    text-align: center;
+}
+.but {
+    background: gold;
+    font-family: 'Fuzzy Bubbles', cursive;
+    border-radius: 10px;
+    color: black;
+    font-size: 1.5rem;
+    padding: 8px 10px 8px 10px;
+}
+
+.but:hover {
+    background: #232931;
+    text-decoration: none;
+}
